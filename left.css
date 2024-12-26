@@ -162,14 +162,6 @@ textarea{
     left:30px;
 
 }
-.layout_content{
-    display: none;
-    flex-direction: column;
-    position:absolute;
-    right:30px;
-
-}
-
 .a11{
     text-align: center;
     width:60px;
